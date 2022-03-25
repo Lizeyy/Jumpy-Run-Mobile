@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:5:5-38:19
+12        android:allowBackup="true"
+12-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\Iza\.gradle\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_icon"
+15-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:7:9-39
+16        android:label="Jumpy Run!"
+16-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:8:9-35
+17        android:roundIcon="@mipmap/ic_icon_round"
+17-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:9:9-50
+18        android:supportsRtl="true"
+18-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.JumpyJumpMobile" >
+20-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:11:9-53
+21        <activity
+21-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:12:9-15:53
+22            android:name="com.game.activities.RankActivity"
+22-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:13:13-52
+23            android:exported="false"
+23-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:14:13-37
+24            android:screenOrientation="landscape" />
+24-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:15:13-50
+25        <activity
+25-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:16:9-19:53
+26            android:name="com.game.activities.EndActivity"
+26-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:17:13-51
+27            android:exported="false"
+27-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:18:13-37
+28            android:screenOrientation="landscape" />
+28-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:19:13-50
+29        <activity
+29-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:20:9-23:53
+30            android:name="com.game.activities.PauseActivity"
+30-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:21:13-53
+31            android:exported="false"
+31-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:22:13-37
+32            android:screenOrientation="landscape" />
+32-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:23:13-50
+33        <activity
+33-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:24:9-27:53
+34            android:name="com.game.activities.GameActivity"
+34-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:25:13-52
+35            android:exported="false"
+35-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:26:13-37
+36            android:screenOrientation="landscape" />
+36-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:27:13-50
+37        <activity
+37-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:28:9-37:20
+38            android:name="com.game.activities.MenuActivity"
+38-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:29:13-52
+39            android:exported="true"
+39-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:30:13-36
+40            android:screenOrientation="landscape" >
+40-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:31:13-50
+41            <intent-filter>
+41-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:32:13-36:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:33:17-69
+42-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:33:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:35:17-77
+44-->D:\Studia\Mobilne\Projekt\JumpyRunMobile\app\src\main\AndroidManifest.xml:35:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+50            android:authorities="com.game.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Iza\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Iza\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Iza\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Iza\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

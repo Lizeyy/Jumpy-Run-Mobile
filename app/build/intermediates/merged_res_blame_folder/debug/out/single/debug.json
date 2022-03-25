@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_bg_1_0.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\game_bg_1_0.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_icon_round.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_icon_round.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump1.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump1.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump5.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump5.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_title.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run5.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run5.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run1.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run1.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump4.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump4.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run8.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run8.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_bg_1_3.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\game_bg_1_3.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_bg_1_1.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\game_bg_1_1.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run6.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run6.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_grass.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\grass.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_gif.gif.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\gif.gif"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_bg_1.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\game_bg_1.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_end.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\activity_end.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run2.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run2.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump8.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump8.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run7.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run7.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_bg_1_2.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\game_bg_1_2.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_obs1.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\obs1.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run3.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run3.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_icon.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_icon.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump7.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump7.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pause.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\activity_pause.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump2.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump2.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rank.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\activity_rank.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_star.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_background.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\menu_background.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_recyclerview_rank.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\recyclerview_rank.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_icon.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_icon.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump6.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump6.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_icon_round.xml.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_icon_round.xml"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_run4.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_run4.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat_jump3.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\drawable\\cat_jump3.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_icon_round.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_icon.png.flat",
+        "source": "D:\\Studia\\Mobilne\\Projekt\\JumpyRunMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon.png"
+    }
+]
